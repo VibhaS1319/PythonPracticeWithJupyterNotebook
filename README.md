@@ -1,2 +1,2 @@
 # PythonPracticeWithJupyterNotebook
-This repository is for practicing basic python by using Jupyter Notebook
+This repository is for practicing basic python coding by using Jupyter Notebook
